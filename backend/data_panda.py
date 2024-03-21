@@ -5,8 +5,8 @@ from readd import all
 
 mydb = mysql.connector.connect(
   host="localhost",
-  user="shiny",
-  password="Srisheshi3",
+  user="****",
+  password="*******",
   database="readingbills"
 )
 #mycursor = mydb.cursor()
