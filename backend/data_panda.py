@@ -1,6 +1,6 @@
 import mysql.connector
 # Import necessary libraries
-from read import all
+from readd import all
 
 
 mydb = mysql.connector.connect(
